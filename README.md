@@ -12,9 +12,5 @@ Dataquest's program is centered around creating a portfolio.  This appealed to m
 
 ## Deaths by Gun Analysis
 
-This [Jupyter notebook](dataquest1.ipynb) is a simple example using plain Python to accomplish some rudimentary data analysis.
-
-
-
-
+This [Jupyter notebook](https://github.com/icosahedron/dataquest/blob/master/Guided%20Project_%20Exploring%20Gun%20Deaths%20in%20the%20US/Basics.ipynb) is a simple example using plain Python to accomplish some rudimentary data analysis about frequency and method of gun deaths by race and intent.
 
